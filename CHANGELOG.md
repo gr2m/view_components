@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## 0.1.10
+
+### Patch Changes
+
+- [#2006](https://github.com/primer/view_components/pull/2006) [`7282911b`](https://github.com/primer/view_components/commit/7282911ba38b2f11681e2a558e189cf2e6174bd4) Thanks [@keithamus](https://github.com/keithamus)! - Fix ActionMenu staying open when focus moved, in browsers with native popover
+
+* [#2013](https://github.com/primer/view_components/pull/2013) [`b7207d27`](https://github.com/primer/view_components/commit/b7207d27b23c77ea7280cc4175c6d665897e8e40) Thanks [@langermank](https://github.com/langermank)! - Update `ButtonGroup` to use `Beta::Button`
+
+- [#2027](https://github.com/primer/view_components/pull/2027) [`f6d9fe97`](https://github.com/primer/view_components/commit/f6d9fe9741b66751a3c89cdfb5637a111ec4170b) Thanks [@keithamus](https://github.com/keithamus)! - ActionMenu: enable focussing first element on space activation
+
+* [#2023](https://github.com/primer/view_components/pull/2023) [`b47a3781`](https://github.com/primer/view_components/commit/b47a37811147af663358cb055fe9ac79701caf43) Thanks [@camertron](https://github.com/camertron)! - Bump popover-polyfill to latest version
+
 ## 0.1.9
 
 ### Patch Changes
